@@ -93,8 +93,8 @@ void load_op3(const char *model) {
     property_set("ro.build.product", "OnePlus3");
     property_set("ro.product.device", "OnePlus3");
     property_set("ro.display.series", "OnePlus 3");
-    property_set("ro.build.description", "OnePlus3-user 6.0.1 MMB29M 24 dev-keys");
-    property_set("ro.build.fingerprint", "OnePlus/OnePlus3/OnePlus3:6.0.1/MMB29M/362280:user/release-keys");
+    property_set("ro.build.description", "OnePlus3-user 7.0 NRD90M 86 dev-keys");
+    property_set("ro.build.fingerprint", "OnePlus/OnePlus3/OnePlus3:7.0/NRD90M/12161319:user/release-keys");
 }
 
 void load_op3t(const char *model) {
