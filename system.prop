@@ -31,11 +31,11 @@ bt.max.hfpclient.connections=1
 qcom.bluetooth.soc=rome
 
 # Camera
-camera.hal1.packagelist=com.skype.raider,com.whatsapp,com.tencent.mm,com.google.android.GoogleCamera
+camera.hal1.packagelist=com.skype.raider,com.whatsapp,com.tencent.mm
 
 # HAX - remove ASAP
-media.stagefright.legacyencoder=true
-media.stagefright.less-secure=true
+#media.stagefright.legacyencoder=true
+#media.stagefright.less-secure=true
 
 # Display power reduction (FOSS)
 ro.qcom.dpps.sensortype=3
